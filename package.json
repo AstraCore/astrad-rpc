@@ -19,7 +19,7 @@
     "coverage": "istanbul cover node_modules/.bin/_mocha -- --recursive"
   },
   "devDependencies": {
-    "async": "^0.9.0",
+    "async": "^3.2.0",
     "chai": "^4.2.0",
     "coveralls": "^3.1.0",
     "istanbul": "^0.4.5",

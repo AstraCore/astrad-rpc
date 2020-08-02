@@ -1,7 +1,8 @@
 {
-  "name": "astrad-rpc",
+  "name": "@astracore/astrad-rpc",
   "description": "ASTRA Client Library to connect via RPC",
   "version": "0.0.4",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": {},
   "contributors": [],
   "keywords": [
